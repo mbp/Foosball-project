@@ -1,0 +1,15 @@
+C:\TestApps\Foosball\Foosball\TestHelpers\obj\Debug\ResolveAssemblyReference.cache
+C:\TestApps\Foosball\Foosball\TestHelpers\bin\Debug\TestHelpers.dll
+C:\TestApps\Foosball\Foosball\TestHelpers\bin\Debug\TestHelpers.pdb
+C:\TestApps\Foosball\Foosball\TestHelpers\bin\Debug\Moq.dll
+C:\TestApps\Foosball\Foosball\TestHelpers\bin\Debug\StructureMap.AutoMocking.dll
+C:\TestApps\Foosball\Foosball\TestHelpers\bin\Debug\StructureMap.dll
+C:\TestApps\Foosball\Foosball\TestHelpers\bin\Debug\xunit.dll
+C:\TestApps\Foosball\Foosball\TestHelpers\bin\Debug\Moq.pdb
+C:\TestApps\Foosball\Foosball\TestHelpers\bin\Debug\Moq.xml
+C:\TestApps\Foosball\Foosball\TestHelpers\bin\Debug\StructureMap.pdb
+C:\TestApps\Foosball\Foosball\TestHelpers\bin\Debug\StructureMap.xml
+C:\TestApps\Foosball\Foosball\TestHelpers\bin\Debug\StructureMap.AutoMocking.xml
+C:\TestApps\Foosball\Foosball\TestHelpers\bin\Debug\xunit.xml
+C:\TestApps\Foosball\Foosball\TestHelpers\obj\Debug\TestHelpers.dll
+C:\TestApps\Foosball\Foosball\TestHelpers\obj\Debug\TestHelpers.pdb

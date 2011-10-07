@@ -1,0 +1,5 @@
+C:\TestApps\Foosball\Foosball\DataAccess\bin\Debug\DataAccess.dll
+C:\TestApps\Foosball\Foosball\DataAccess\bin\Debug\DataAccess.pdb
+C:\TestApps\Foosball\Foosball\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\TestApps\Foosball\Foosball\DataAccess\obj\Debug\DataAccess.dll
+C:\TestApps\Foosball\Foosball\DataAccess\obj\Debug\DataAccess.pdb

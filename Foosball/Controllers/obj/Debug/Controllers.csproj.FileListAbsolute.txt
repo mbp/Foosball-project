@@ -1,0 +1,7 @@
+C:\TestApps\Foosball\Foosball\Controllers\bin\Debug\Controllers.dll
+C:\TestApps\Foosball\Foosball\Controllers\bin\Debug\Controllers.pdb
+C:\TestApps\Foosball\Foosball\Controllers\obj\Debug\ResolveAssemblyReference.cache
+C:\TestApps\Foosball\Foosball\Controllers\obj\Debug\Controllers.dll
+C:\TestApps\Foosball\Foosball\Controllers\obj\Debug\Controllers.pdb
+C:\TestApps\Foosball\Foosball\Controllers\bin\Debug\DataAccess.dll
+C:\TestApps\Foosball\Foosball\Controllers\bin\Debug\DataAccess.pdb
